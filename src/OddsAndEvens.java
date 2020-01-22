@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * @published by James McDowell
+ */
+
 public class OddsAndEvens {
 
 	public static void main(String[] args) {
