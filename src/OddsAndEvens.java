@@ -33,12 +33,12 @@ public class OddsAndEvens {
 				System.out.println(userName + " your number is odd and over 60");
 			}
 			else {
-				System.out.println(userName + "your number is " + userNum + " and odd");
+				System.out.println(userName + " your number is " + userNum + " and odd");
 			}
 		}
 		
 		else if (userNum < 25) {
-			System.out.println(userName + "your number is even and less than 25");
+			System.out.println(userName + " your number is even and less than 25");
 		}
 		
 		else if (userNum <= 60) {
